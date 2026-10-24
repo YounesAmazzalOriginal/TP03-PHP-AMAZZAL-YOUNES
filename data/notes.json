@@ -1,0 +1,23 @@
+{
+    "Younes": {
+        "notes": [
+            20,
+            15
+        ],
+        "moyenne": 17.5
+    },
+    "Sara": {
+        "notes": [
+            17,
+            18
+        ],
+        "moyenne": 17.5
+    },
+    "Amine": {
+        "notes": [
+            14,
+            16
+        ],
+        "moyenne": 15
+    }
+}
