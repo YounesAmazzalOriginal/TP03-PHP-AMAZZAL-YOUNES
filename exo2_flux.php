@@ -10,13 +10,13 @@
         if ($SEUIL >= 16) {
             echo "Très bien"; 
         }
-        else if ($SEUIL >= 14) {
+        elseif ($SEUIL >= 14) {
             echo "Bien";
         }
-        else if ($SEUIL > 12) {
+        elseif ($SEUIL > 12) {
             echo "Assez bien";
         }
-        else if ($SEUIL > 10) {
+        elseif ($SEUIL > 10) {
             echo "Pasable";
         }
         else {

@@ -20,13 +20,13 @@
         if ($SEUIL >= 16) {
             return "Très bien"; 
         }
-        else if ($SEUIL >= 14) {
+        elseif ($SEUIL >= 14) {
             return "Bien";
         }
-        else if ($SEUIL > 12) {
+        elseif ($SEUIL > 12) {
             return "Assez bien";
         }
-        else if ($SEUIL >= 10) {
+        elseif ($SEUIL >= 10) {
             return "Pasable";
         }
         else {
