@@ -9,6 +9,6 @@
     }
     else {
         echo "Bienvenue <b>$username</b><br><br>";
-        echo "<button>deconnecter</button>";
+        echo "<form action='deconnexion.php'><button>deconnecter</button></form>";
     }
 ?>
